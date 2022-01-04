@@ -1,0 +1,19 @@
+{
+  "name": "ssp-proj",
+  "version": "0.0.1",
+  "description": "assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natalia248/ssp-ca3.git"
+  },
+  "author": "Natalia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natalia248/ssp-ca3/issues"
+  },
+  "homepage": "https://github.com/natalia248/ssp-ca3#readme"
+}
