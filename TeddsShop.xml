@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<menu>
+  <section name="Waffles">
+    <entry>
+      <item>Traditional</item>
+      <description>On its own(with icing sugar)</description>
+      <price>3.00</price>
+    </entry>
+    <entry>
+      <item>Chocolate Stick Waffle</item>
+      <description>Waffle with belgian chocolate on the inside</description>
+      <price>3.50</price>
+    </entry>
+    <entry>
+      <item>Banana Supreme Waffle</item>
+      <description>Fresh Cream, Sliced banana 
+      & Chocolate Hazelnut spread</description>
+      <price>4.50</price>
+    </entry>
+    <entry>
+      <item>Tedd's Special</item>
+      <description>Fresh Cream, Chocolate Hazelnut Spread
+      sliced banana and chopped strawberries</description>
+      <price>5.00</price>
+    </entry>
+    <entry>
+      <item>Gelato Waffle</item>
+      <description>Choose any Gelato, 
+      served with a Waddle & Strawberries</description>
+      <price>5.50</price>
+    </entry>
+    <entry>
+      <item>Create your Own</item>
+      <description>Choose any different topping at 50c per choice Ferrero,
+      Coconut, Strawberry Sauce, Fresh Strawberries, Fresh Banana, Fresh Cream etc. 
+      served with a Waddle & Strawberries</description>
+      <price>3.00 + 50c per item</price>
+    </entry>
+  </section>
+  <section name="Crêpes">
+    <entry>
+      <item>Traditional</item>
+      <description>Lemon Sugar butter</description>
+      <price>4.50</price>
+    </entry>
+    <entry>
+      <item>Hazelnut Spread</item>
+      <description>White or Milk Chocolate Hazelnut Spread</description>
+      <price>4.50</price>
+    </entry>
+    <entry>
+      <item>Banana Supreme</item>
+      <description>Sliced banana & Chocolate Hazelnut Spread</description>
+      <price>4.0</price>
+    </entry>
+     <entry>
+      <item>Marshmallow delight</item>
+      <description>White or Milk Chocolate Hazelnut Spread 
+      with melted mini marshmallows </description>
+      <price>5.50</price>
+    </entry>
+     <entry>
+      <item>Tedd's Special</item>
+      <description>Chocolate Hazelnut,
+      Sliced banana and chopped strawberries</description>
+      <price>5.90</price>
+    </entry>
+      <entry>
+      <item>White Ferrari</item>
+      <description>Freshly chopped strawberries, 
+      fresh cream topped with White Chocolate</description>
+      <price>5.50</price>
+    </entry>
+     <entry>
+      <item>Tedd's Maple</item>
+      <description>Maple syrup with a touch of Cinnamon</description>
+      <price>4.90</price>
+    </entry>
+     <entry>
+      <item>Tedd's Ferrero</item>
+      <description>Tedd's own ferrero chocolate spread</description>
+      <price>5.00</price>
+    </entry>
+     <entry>
+      <item>Create your Own</item>
+      <description>Choose any different topping at 50c per choice Ferrero,
+      Coconut, Strawberry Sauce, Fresh Strawberries, Fresh Banana, Fresh Cream etc. 
+      served with a Waddle & Strawberries</description>
+      <price>4.50 + 50c per item</price>
+    </entry>
+  </section>
+</menu>
