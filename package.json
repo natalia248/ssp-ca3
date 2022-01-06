@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/natalia248/ssp-ca3/issues"
   },
-  "homepage": "https://github.com/natalia248/ssp-ca3#readme"
+  "homepage": "https://github.com/natalia248/ssp-ca3#readme",
+  "dependencies": {
+    "xslt3": "^2.3.0"
+  },
+  "devDependencies": {}
 }
